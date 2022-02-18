@@ -1,7 +1,9 @@
 .red-text {
     background-color: #f77b6d;
-    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+    font-family: Verdana, DejaVu Sans, sans-serif; 
 }
+
+/* No quotations on the fonts. */
 
 #blue-text {
     color: #1f17ff; 
@@ -10,7 +12,7 @@
 
 .big-red-text {
     background-color: #f77b6d;
-    font-family: "Verdana", "DejaVu Sans", sans-serif; 
+    font-family: Verdana, DejaVu Sans, sans-serif; 
     font-size: 24px;
 }
 
