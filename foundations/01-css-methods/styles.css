@@ -4,4 +4,5 @@ div {
   text-align: center; 
   font-size: 32px;
   font-weight: 700; 
+  /* I could've also just used "font-weight: bold;" */
   }
